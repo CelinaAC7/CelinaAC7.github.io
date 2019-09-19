@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Master GIS student at University of Texas at Dallas.
 
 ### More Information
 
