@@ -12,4 +12,4 @@ My hobbies include watching crime shows, hicking, and tending to my garden.
 
 ### Contact me
 
-[email@domain.com](mailto:celinaarredondoGIS@gmail.com)
+[celinaarredondoGIS@gmail.com](mailto:celinaarredondoGIS@gmail.com)
