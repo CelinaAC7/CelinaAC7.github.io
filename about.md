@@ -8,7 +8,7 @@ I am a Master GIS student at University of Texas at Dallas.
 
 ### More Information
 
-My hobbies include watching crime shows, hicking, and tending to my garden.
+My hobbies include watching crime shows, hiking, and tending to my garden.
 
 ### Contact me
 
