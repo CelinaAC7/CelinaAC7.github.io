@@ -2,6 +2,6 @@
 layout: post
 title: Welcome!
 ---
-[Resume](https://CelinaAC7/AC7.github.io/blob/master/_posts/resume.html)
+[Resume](https://github.com/CelinaAC7/CelinaAC7.github.io/blob/master/resume.pdf)
 
 
