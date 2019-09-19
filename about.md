@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Master GIS student at University of Texas at Dallas.
+I am a Master GIS student at University of Texas at Dallas.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies include watching crime shows, hicking, and tending to my garden.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:celinaarredondoGIS@gmail.com)
