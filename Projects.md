@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projects
-perma link: /Projects/
+permalink: /Projects/
 ---
 ### Maps
 
