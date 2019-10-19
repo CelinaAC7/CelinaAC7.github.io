@@ -6,4 +6,4 @@ title: Welcome!
  
  [About](https://celinaac7.github.io/about/)
  
- [Projects] (https://celinaac7.github.io/projects)
+ [Projects](https://celinaac7.github.io/projects/)
