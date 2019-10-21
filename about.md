@@ -14,7 +14,7 @@ I am a first generation college graduate, I financed my eduation with scholarshi
 
 ### More Information
 
-In my free time I enjoy watching crime shows, walking my two chihuahua-terrier-mix dogs, and tending to my garden. 
+In my free time I enjoy walking my two chihuahua-terrier-mix dogs, and tending to my garden(peppers, avocados, and other plants). 
 
 ### Contact me
 
